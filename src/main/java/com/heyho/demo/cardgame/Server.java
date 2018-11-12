@@ -451,7 +451,7 @@ mainloop:       while (true) {
 						gui.setMessageLabel("Player #" + (gameWinner+1) + " won game");
 						gui.setMessage2Label("Select your choices at right, then press Resume");
 					} else
-						gui.setMessageLabel("Select your choices at right, then press Start");
+						gui.setMessageLabel("Select your choices at right, then press Resume");
 
 
 					while (true) {

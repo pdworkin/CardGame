@@ -265,7 +265,7 @@ public class GuiWindowBuilder {
 		JPanel bottonBox = new JPanel();
 		frame.getContentPane().add(bottonBox, BorderLayout.SOUTH);
 		
-		pause = new JButton(" Start ");
+		pause = new JButton(" Resume ");
 		pause.addMouseListener(new MouseAdapter() {
 			@Override
 			public void mouseClicked(MouseEvent e) {
