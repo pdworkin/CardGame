@@ -1,7 +1,7 @@
 # CardGame
 This is a weekend hack that started from sketching up a data structure for a deck of cards.  It ended up as a game among N computer players with a simple AI and with the player agents able to connect in remotely via sockets. Also a Swing GUI that monitors the play and keeps track of score.
 
-The code is not pretty.  It should be refactored into a MVC model.
+The code is not pretty.  It should be refactored into the MVC model.
 
 ## To Run
 Precompiled jar files are included in the repository so you can just do:
